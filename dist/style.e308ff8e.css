@@ -28,7 +28,6 @@ html{
 
     .act--container{
         grid-auto-flow: column;
-
     }
 }
 
@@ -343,7 +342,6 @@ hr{
 
 #recommended_products{
     padding: 22rem 3rem;
-
 }
 
 .other-products{
@@ -385,15 +383,11 @@ hr{
 .recommendation-pic{
     width: 363px;
     height: 454px;
-
-    background-image: url(/handPomade1.36ec63d1.png);
 }
 
 .recommendation-name{
     margin-top: 16px;
     margin-bottom: 5px;
-
-
 
     font-style: normal;
     font-weight: 400;
@@ -450,10 +444,8 @@ hr{
 
     .other-products{
         top: 1245px;
-        width: 530px;
+        width: 517px;
     }
-
-
 }
 
 
